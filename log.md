@@ -49,3 +49,9 @@
 **Link(s) to work**
 
 1. https://twitter.com/lenniecottrell/status/1347728187216646144?s=20 I'll start linking to my github pages soon instead of twitter. everything to this point has been retroactive.
+
+### Day 4: January 8, 2021
+
+**Today's Progress**: I finally fixed the postgres issue and the github desktop issue. Now I need to rebuild the database since I had to delete everything. Luckily it didn't have that much data in it. Still need to address the CORS problem but I'll deal with that tomorrow.
+
+**Thoughts** : That's enough for today.
