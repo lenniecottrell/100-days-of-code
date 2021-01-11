@@ -55,3 +55,9 @@
 **Today's Progress**: I finally fixed the postgres issue and the github desktop issue. Now I need to rebuild the database since I had to delete everything. Luckily it didn't have that much data in it. Still need to address the CORS problem but I'll deal with that tomorrow.
 
 **Thoughts** : That's enough for today.
+
+### Day 6: January 9, 2021
+
+**Today's Progress**: I rebuilt the database and returned to debugging the CORS issue I'm having. Hopefully I'll get it worked out tomorrow.
+
+**Thoughts** : Yak Shaving(https://seths.blog/2005/03/dont_shave_that/)
